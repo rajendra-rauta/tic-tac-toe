@@ -18,6 +18,7 @@ const winPaterns = [
 ];
 
 
+
 const resetGame = () => {
     turn0 = true;
     enableBoxes();

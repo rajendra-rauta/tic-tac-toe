@@ -23,7 +23,6 @@ const resetGame = () => {
     msgContainer.classList.add("hide");
 }
 
-
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
 
